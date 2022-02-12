@@ -1,5 +1,6 @@
 # KanyeTweetWebApp
-Randomized Quotes from Kanye West
+Randomized Quotes from Kanye West and random cat photos 
+Using JavaScript and HTML
 
 <img width="305" alt="pic1" src="https://user-images.githubusercontent.com/54678225/153726339-965b0ae7-8b97-41ab-a707-411f9ec071a5.png">
 
