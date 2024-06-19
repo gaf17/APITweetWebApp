@@ -2,7 +2,7 @@
 
 https://kanyeorcat.netlify.app/
 
-Randomized Quotes from Kanye West and random cat photos using APIs
+Randomized Quotes from and random cat photos using APIs
 Using JavaScript and HTML
 
 <img width="290" alt="pic1" src="https://user-images.githubusercontent.com/54678225/153726472-0f230064-331a-4c4a-bee5-8e39c7173b3b.png">
