@@ -1,4 +1,4 @@
-# KanyeTweetWebApp
+# APITweetWebApp
 
 https://kanyeorcat.netlify.app/
 
